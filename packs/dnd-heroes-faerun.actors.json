@@ -1,0 +1,113 @@
+{
+  "label": "Atores",
+  "folders": {
+    "Mounts and Other Animals": "Montarias e Outros Animais",
+    "Mechanical Wonders": "Maravilhas Mecânicas",
+    "Conjurations": "Conjurações"
+  },
+  "entries": {
+    "Axe Beak": {
+      "name": "Bico-de-Machado",
+      "description": "<blockquote><p>Não deixe a fama de rabugentas dessas criaturas trabalhadoras desanimar você. Uma parelha de bicos-de-machado consegue puxar seu trenó com velocidade e eficiência notáveis.</p></blockquote><p><em>(veja o @UUID[Compendium.dnd-monster-manual.content.JournalEntry.mmAppendixMonste.JournalEntryPage.HbA0tUgLR0NxiPyW]{Manual dos Monstros})</em></p>",
+      "items": {
+        "Beak": {
+          "name": "Bico",
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+        }
+      }
+    },
+    "Domestic Wonder": {
+      "name": "Maravilha Doméstica",
+      "description": "<p>Esta maravilha bípede foi projetada para ajudar nas tarefas domésticas. Ela lembra vagamente a espécie que seu criador usou como inspiração. Uma maravilha doméstica ativada usa o bloco de estatísticas de Maravilha Doméstica.</p><p>A maravilha é aliada sua e de seus aliados. Em combate, a maravilha compartilha sua contagem de Iniciativa, mas age imediatamente após seu turno. Ela obedece aos seus comandos verbais (nenhuma ação necessária de sua parte). Se você não der nenhum comando, ela realiza a ação Esquivar e usa seu movimento para evitar perigos.</p><p>A maravilha doméstica é destruída se chegar a 0 Pontos de Vida.</p>",
+      "items": {
+        "Mechanical Determination": {
+          "name": "Determinação Mecânica",
+          "description": "<p>Se um dano reduzir a maravilha a 0 Pontos de Vida, ela faz um teste de resistência de Constituição com CD igual a 5 mais o dano sofrido, a menos que o dano seja Elétrico ou de um Acerto Crítico. Se for bem-sucedida, a maravilha fica com 1 Ponto de Vida em vez disso.</p>"
+        },
+        "Wind-Up Operation": {
+          "name": "Funcionamento a Corda",
+          "description": "<p>A maravilha tem a condição &amp;Reference[Unconscious apply=false] até que outra criatura lhe dê corda com a chave exclusiva da maravilha durante 1 minuto. Depois de receber corda, a maravilha funciona por 10 dias ou até que uma criatura toque a maravilha com sua chave como uma ação de Usar para desativá-la; depois disso, a maravilha tem a condição &amp;Reference[Unconscious apply=false] até receber corda novamente.</p><section id=\"secret-giTfe8tQdtxMe0In\" class=\"secret\"><p><strong>Nota do Foundry</strong></p><p>A maravilha começa no estado Inconsciente. Para colocá-la no estado Com Corda, desative o <strong>Efeito Ativo (EA)</strong> localizado na <strong>Aba de Efeitos</strong> da ficha de personagem.</p></section>",
+          "activities": {
+            "Wind-Up": {
+              "name": "Dar Corda"
+            }
+          },
+          "effects": {
+            "Unconscious": {
+              "name": "Inconsciente",
+              "description": "<p>A maravilha fica &amp;Reference[unconscious apply=false]{inconsciente} até receber corda novamente.</p>"
+            }
+          }
+        }
+      }
+    },
+    "Flying Snake": {
+      "name": "Serpente Voadora",
+      "description": "<blockquote><p>Nossos parceiros do Zhentarim fornecem estes notáveis animais de estimação, totalmente domesticados e treinados para entregar mensagens. Use sempre luvas ao manusear criaturas venenosas.</p></blockquote><p><em>(veja o @UUID[Compendium.dnd-monster-manual.content.JournalEntry.mmAppendixAAnima.JournalEntryPage.IO3FQv6plccdlyiN]{Manual dos Monstros})</em></p>",
+      "items": {
+        "Flyby": {
+          "name": "Sobrevoo",
+          "description": "<p>A [[lookup @name lowercase]] não provoca &amp;Reference[OpportunityAttacks]{Ataque de Oportunidade} quando voa para fora do alcance de um inimigo.</p>"
+        },
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+        }
+      }
+    },
+    "Sled Dog": {
+      "name": "Cão de Trenó",
+      "description": "<blockquote><p>Recomendamos uma matilha destes cães de trenó para aliviar o fardo de cada animal. Revezem os cães nas posições de liderança para dar descanso aos animais cansados.</p></blockquote><p>Um cão de trenó que puxa um trenó sozinho precisa fazer um &amp;Reference[Short Rest] depois de puxar um trenó por 1 hora; caso contrário, ele ganha 1 nível de &amp;Reference[Exhaustion].</p><p><em>(veja o @UUID[Compendium.dnd-monster-manual.content.JournalEntry.mmAppendixAAnima.JournalEntryPage.Ls3RwFhjHWdrOSAK]{Manual dos Monstros})</em></p>",
+      "items": {
+        "Pack Tactics": {
+          "name": "Táticas de Matilha",
+          "description": "<p>O [[lookup @name lowercase]] tem Vantagem em uma jogada de ataque contra uma criatura se pelo menos um aliado do [[lookup @name lowercase]] estiver a até 5 pés da criatura e esse aliado não tiver a condição Incapacitado.</p>"
+        },
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>[[/attack extended]]. [[/damage average extended]]. Se o alvo for uma criatura Média ou menor, ele tem a condição &amp;Reference[Prone apply=false].</p>",
+          "effects": {
+            "Prone": {
+              "name": "Caído",
+              "description": "<p>Se o alvo for uma criatura Média ou menor, ele tem a condição &amp;Reference[Prone apply=false].</p>"
+            }
+          }
+        }
+      }
+    },
+    "Blade of Disaster": {
+      "name": "Lâmina do Desastre",
+      "items": {
+        "Move and Attack": {
+          "name": "Mover e Atacar",
+          "description": "<p>@Embed[Compendium.dnd-heroes-faerun.options.Item.hofBladeofDisast inline]{Lâmina do Desastre}</p>",
+          "activities": {
+            "attack": {
+              "condition": "ação realizada pelo controlador",
+              "target": "um alvo a até 5 pés após o movimento"
+            }
+          }
+        }
+      }
+    },
+    "Conjured Constructs": {
+      "name": "Constructos Conjurados",
+      "items": {
+        "Command": {
+          "name": "Comandar",
+          "description": "<p>@Embed[Compendium.dnd-heroes-faerun.options.Item.hofConjureConstr inline]</p>",
+          "activities": {
+            "Clockwork Force": {
+              "name": "Força Mecânica",
+              "condition": "ação realizada pelo controlador"
+            },
+            "Orderly Ward": {
+              "name": "Proteção Ordenada",
+              "condition": "ação realizada pelo controlador"
+            }
+          }
+        }
+      }
+    }
+  }
+}

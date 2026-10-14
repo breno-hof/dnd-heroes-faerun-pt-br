@@ -1,0 +1,106 @@
+{
+  "label": "Itens",
+  "folders": {
+    "Tools": "Ferramentas",
+    "Equipment": "Equipamento",
+    "Travel & Vehicles": "Viagem e Veículos",
+    "Whole Realm Catalog": "Catálogo de Todos os Reinos",
+    "Renown Rewards": "Recompensas de Renome"
+  },
+  "entries": {
+    "Adventurer's Ring": {
+      "name": "Anel do Aventureiro",
+      "description": "<p><em>Anel, Comum</em></p><blockquote><p>Lamparinas são um estorvo em aventuras. Frágeis e propensas a derramar óleo, elas ocupam uma mão que deveria estar empunhando uma arma ou conjurando uma magia. Depois de experimentar um de nossos anéis elegantes e práticos, você nunca mais voltará à incômoda pederneira com fogo.</p></blockquote><p>Enquanto a tampa deste anel está aberta, o anel produz uma chama que não gera calor nem consome combustível. Ela emite Luz Plena em um raio de 20 pés e Penumbra por mais 20 pés. Como uma Ação Bônus, você pode fechar a tampa, abafando a chama, ou abri-la novamente.</p>"
+    },
+    "Bandore": {
+      "name": "Bandore",
+      "description": "<p class=\"hide-in-embed\">@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbEquipment0000.JournalEntryPage.GCvg8n7Q7ltSPRxe#musical-instrument-(varies)]{Instrumento Musical}, 3lb.</p><p>O bandore é um instrumento grave complexo, com conjuntos adicionais de cordas, perfeito para acompanhar instrumentos tenores e contraltos em um conjunto.</p>"
+    },
+    "Bright Fungal Cloak": {
+      "name": "Manto Fúngico Brilhante",
+      "description": "<p></p><blockquote><p>Nunca mais explore cavernas no escuro! Este manto de fibras de fungo bioluminescente certamente vai iluminar o seu dia.</p></blockquote><p>Enquanto veste um Manto Fúngico Brilhante, você pode realizar uma Ação Bônus para enrolá-lo ou desenrolá-lo. Quando o manto está desenrolado, ele emite Luz Plena em um raio de 5 pés e Penumbra por mais 5 pés.</p><p>Uma libra de fungo está costurado em um Manto Fúngico Brilhante. Esse fungo pode ser comido como alimento. Quando todo o fungo for consumido, o manto se torna um conjunto comum de Roupas de Viajante.</p><p></p>"
+    },
+    "Cittern": {
+      "name": "Cítola",
+      "description": "<p class=\"hide-in-embed\">@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbEquipment0000.JournalEntryPage.GCvg8n7Q7ltSPRxe#musical-instrument-(varies)]{Instrumento Musical}, 2lb.</p><p>A cítola, que se distingue pelo bojo em forma de pera, produz um som agradável e mais encorpado.</p>"
+    },
+    "Desert Clothing": {
+      "name": "Trajes do Deserto",
+      "description": "<p></p><blockquote><p>Elegantes, mas práticos, nossos trajes do deserto protegem você, seja conduzindo uma caravana de camelos pelo Deserto de Calim ou explorando uma antiga tumba mulhorandi.</p></blockquote><p>Quando você está usando Trajes do Deserto e não está usando armadura Média ou Pesada, você obtém sucesso automático em testes de resistência contra os efeitos de calor extremo. Veja o capítulo 3 do <em>Guia do Mestre</em> para as regras de calor extremo.</p><p></p>"
+    },
+    "Devil Mask": {
+      "name": "Máscara de Diabo",
+      "description": "<p></p><blockquote><p>Dê aos seus pecados uma negação plausível usando uma destas máscaras diabólicas inspiradas nos ínferos dos Nove Infernos. Também adequadas para as festas de gala dos patriarcas na cidade de Baldur’s Gate.</p></blockquote><p>Enquanto você usa uma Máscara de Diabo, outras criaturas têm Desvantagem em testes de Inteligência (Investigação) e Sabedoria (Intuição) feitos para discernir sua verdadeira identidade ou intenções.</p><p></p>"
+    },
+    "Domestic Wonder": {
+      "name": "Maravilha Doméstica",
+      "description": "<p class=\"hide-in-embed\"><em>@UUID[Compendium.dnd-heroes-faerun.items.Item.hofMechanicalWon]{Maravilha Mecânica}</em></p><blockquote><p>As Maravilhas Mecânicas revolucionaram a vida em Calimporto. Imagine uma máquina de corda que lava sua roupa, lava sua louça e limpa sua casa — e então realize esse sonho em qualquer loja do empório.</p></blockquote><p>Esta maravilha bípede foi projetada para ajudar nas tarefas domésticas. Ela lembra vagamente a espécie que seu criador usou como inspiração. Uma maravilha doméstica<em> </em>ativada usa o bloco de estatísticas de @UUID[Compendium.dnd-heroes-faerun.actors.Actor.hofDomesticWonde]{Maravilha Doméstica}<strong> </strong>.</p><p>A maravilha é aliada sua e de seus aliados. Em combate, a maravilha compartilha sua contagem de Iniciativa, mas age imediatamente após seu turno. Ela obedece aos seus comandos verbais (nenhuma ação necessária de sua parte). Se você não der nenhum comando, ela realiza a ação Esquivar e usa seu movimento para evitar perigos. A maravilha doméstica<em> </em>é destruída se chegar a 0 Pontos de Vida.</p><p></p>"
+    },
+    "Garb of Light and Shadow": {
+      "name": "Vestes de Luz e Sombra",
+      "description": "<p></p><blockquote><p>Estes trajes estão na moda entre os cortesãos feéricos das Ilhas Moonshae. Depois de vencer um jogo de charadas e abrir mão de uma mecha de cabelo, consegui amostras suficientes para recriá-los em minha oficina.</p></blockquote><p>Estas vestes agradam às Fadas de um Domínio do Deleite, como a Corte do Crepúsculo ou a Corte do Verão. Enquanto veste estas vestes, você tem Vantagem em testes de atributo para influenciar Fadas associadas a esse Domínio do Deleite.</p><p></p>"
+    },
+    "Genie Robe": {
+      "name": "Túnica de Gênio",
+      "description": "<p></p><blockquote><p>Canalize a autoridade dos gênios com estas elegantes modas calishitas.</p></blockquote><p>Esta túnica agrada aos Elementais associados a um Plano Elemental específico (Ar, Terra, Fogo, Água). Enquanto veste uma Túnica de Gênio, você tem Vantagem em testes de atributo feitos para influenciar Elementais associados a esse plano.</p><p></p>"
+    },
+    "Locking Spellbook": {
+      "name": "Grimório com Fechadura",
+      "description": "<p></p><blockquote><p>O mago sábio guarda uma cópia de todas as suas magias em segurança caso ocorra um desastre. Complementamos nosso grimório com uma fechadura confiável, segura o bastante para dissuadir goblins curiosos.</p></blockquote><p>Este tomo de 100 páginas encadernado em couro pode ser usado como Grimório. Ele é fechado por uma fechadura que vem com uma chave. Como uma ação de Usar, uma criatura pode tentar abrir a fechadura usando Ferramentas de Ladrão, conseguindo-o com um [[/tool format=long]] bem-sucedido.</p><p></p>"
+    },
+    "Mechanical Wonder": {
+      "name": "Maravilha Mecânica",
+      "description": "<p><em>Item Maravilhoso, Raridade Variável</em></p><p>Uma <em>Maravilha Mecânica </em>é um objeto semiautônomo imbuído de poder mágico. As <em>Maravilhas Mecânicas</em> variam muito em tamanho e forma, dependendo de sua função.</p><p>Uma <em>Maravilha Mecânica </em>é um objeto dormente até ser ativado. Para ativar uma <em>Maravilha Mecânica</em>, você precisa dar corda nela com uma chave de mão exclusiva daquela maravilha. Leva 1 minuto para dar corda em uma <em>Maravilha Mecânica</em>. Enquanto dá corda nela, você precisa realizar a ação de Usar a cada turno.</p><p>Depois de receber corda, uma <em>Maravilha Mecânica </em>permanece ativada pela duração especificada na descrição da maravilha abaixo.</p>"
+    },
+    "Monster Camouflage": {
+      "name": "Camuflagem de Monstro",
+      "description": "<p></p><blockquote><p>O povo de Icewind Dale desenvolveu muitas estratégias para viajar com segurança por regiões selvagens perigosas. Este traje, adaptado de roupas de caça, afugenta estranhos e animais por igual.</p></blockquote><p>Um traje de Camuflagem de Monstro se parece com uma Fera ou Monstruosidade, como um urso-coruja. Para discernir que você está disfarçado, uma criatura precisa realizar a ação Estudar para inspecionar sua aparência e ser bem-sucedida em um [[/check format=long]]. A criatura tem Vantagem nesse teste se estiver a até 30 pés de você e obtém sucesso automático nele se você fizer qualquer coisa que o monstro que você está imitando não poderia fazer.</p><p></p>"
+    },
+    "Prosthetic Limb": {
+      "name": "Membro Protético",
+      "description": "<p></p><blockquote><p>Uma ilustração perfeita da ideia de que a magia deve facilitar nossas vidas. Graças à generosidade da Sultana Songal, qualquer pessoa que precise de um Membro Protético pode obter o dispositivo gratuitamente. Fale com um de nossos vendedores no Empório de Aurora mais próximo de você.</p></blockquote><p>Os <em>Membros Protéticos</em> são detalhados no <em>Guia do Mestre</em>.</p><p></p>"
+    },
+    "Thayan Spell Tattoo": {
+      "name": "Tatuagem Mágica Thayana",
+      "description": "<p><em>Item Maravilhoso, Incomum (Requer Sintonização)</em></p><p>Esta tatuagem mágica contém a essência de uma magia de nível 1–3 escolhida pelo criador da tatuagem. Enquanto a tatuagem estiver em seu corpo, você sempre tem a magia associada preparada e pode conjurá-la usando quaisquer espaços de magia que tenha do nível apropriado. Se você tiver a característica Conjuração ou Magia de Pacto, a magia usa seu atributo de conjuração; caso contrário, se a magia exigir um teste de resistência ou uma jogada de ataque, a CD de resistência da magia é 13 e o bônus de ataque é +5. Se sua Sintonização com a tatuagem terminar, a tatuagem desaparece.</p><p>Você também pode conjurar a magia uma vez sem espaço de magia e sem componentes. Quando a magia é conjurada dessa forma, a tatuagem desaparece.</p>",
+      "activities": {
+        "Free Casting": {
+          "name": "Conjuração Gratuita"
+        }
+      }
+    },
+    "Warm Fungal Clothing": {
+      "name": "Trajes Fúngicos Quentes",
+      "description": "<p></p><blockquote><p>Exploradores intrépidos da Estação Penacho Alto, em Icewind Dale, desceram por fendas de vapor para trazer fungos úteis do Subterrâneo. Nossos artesãos especializados cuidaram do resto.</p></blockquote><p>Quando você está usando Trajes Fúngicos Quentes, você obtém sucesso automático em testes de resistência contra os efeitos de frio extremo. Veja o capítulo 3 do <em>Guia do Mestre</em> para as regras de frio extremo.</p><p>Uma libra de fungo está costurado nos Trajes Fúngicos. Esse fungo pode ser comido como alimento. Quando todo o fungo for consumido, eles se tornam um conjunto comum de Roupas de Viajante.</p><p></p>"
+    },
+    "Windskiff": {
+      "name": "Esquife dos Ventos",
+      "description": "<blockquote><p>Se você quiser viajar entre as Moonshae, não conseguirá fazê-lo a pé, a cavalo ou de carroça. Você vai precisar navegar. E, embora pudesse simplesmente alugar um barco, qual seria a graça disso?</p></blockquote><p>Esta pequena joia tem 3 cargas e recupera todas as cargas gastas diariamente ao amanhecer. Enquanto a segura, você pode realizar uma ação de Magia para gastar 1 carga, o que faz a joia se transformar em um veículo pessoal movido a vela. O veículo tem aproximadamente o tamanho e o formato de uma porta doméstica, com uma vela de 10 pés de altura que se estende de um dos lados. Após 1 hora ou quando você usar a palavra de comando do item (nenhuma ação necessária), a transformação termina e o <em>Esquife dos Ventos</em> volta à forma de joia.</p><p>Na forma de veículo, um <em>Esquife dos Ventos </em>é um objeto Médio com as seguintes estatísticas: CA 12, PV 30 e Deslocamento 40 pés. O <em>Esquife dos Ventos</em> paira alguns centímetros acima de qualquer superfície em que esteja e pode planar; ele se move 5 pés horizontalmente para cada 1 pé que desce no ar. Um <em>Esquife dos Ventos </em>e seus ocupantes não sofrem dano de queda.</p>",
+      "activities": {
+        "Expand Use": {
+          "name": "Gastar Uso"
+        }
+      }
+    },
+    "Winter Camouflage": {
+      "name": "Camuflagem de Inverno",
+      "description": "<p></p><blockquote><p>Seja para se esconder de monstros horripilantes da tundra ou só para ter um pouco de privacidade, este belo traje pode ajudá-lo a manter a discrição no Norte.</p></blockquote><p>Enquanto você usa Camuflagem de Inverno em um ambiente apropriado, você tem Vantagem em testes de Destreza (Furtividade).</p><p></p>"
+    },
+    "Yarting": {
+      "name": "Yarting",
+      "description": "<p class=\"hide-in-embed\">@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbEquipment0000.JournalEntryPage.GCvg8n7Q7ltSPRxe#musical-instrument-(varies)]{Instrumento Musical}, 2lb.</p><p>O yarting é o instrumento de cordas essencial dos menestréis de toda Faerûn.</p>"
+    },
+    "Black Coach Service": {
+      "name": "Serviço de Carruagem Negra",
+      "description": "<blockquote><p>Viajar pela cidade de Baldur’s Gate deve ser confortável, elegante e discreto. As carruagens negras mágicas de Narwin Cottle são as três coisas. Diga ao seu cocheiro que Aurora mandou você.</p></blockquote><p>Cada uma das carruagens negras de Cottle é uma @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbMountsAndVehi.JournalEntryPage.NVPIUDJEdFDaErTg]{Carruagem} vinculada a uma sequência única de sigilos. Enquanto estiver dentro de uma carruagem negra, uma criatura pode realizar uma ação de Magia para girar um disco de combinação e inserir uma sequência de sigilos pertencente a outra carruagem negra. Todas as criaturas dentro da carruagem então se teletransportam para essa carruagem de destino. Se a carruagem de destino estiver ocupada, o teletransporte falha e a ação é desperdiçada.</p><p>Como alternativa, uma criatura dentro da carruagem pode usar o disco de combinação para inserir uma sequência aleatória, teletransportando todas as criaturas no interior para uma carruagem aleatória da frota de Cottle.</p>"
+    },
+    "Sled Services": {
+      "name": "Serviços de Trenó",
+      "description": "<p>Contratamos condutores de trenó especializados para oferecer serviços de viagem por Icewind Dale, o Gelo Alto, a Grande Geleira e outros reinos do Norte. Cada guia traz seu próprio trenó e uma parelha de seis cães de trenó ou bicos-de-machado. Comida local autêntica é fornecida para você e seus companheiros. Os contratos são por jornada, com metade paga adiantada e metade na chegada.</p><p>O serviço de trenó inclui um @UUID[Compendium.dnd-monster-manual.actors.Actor.mmScout000000000]{Batedor} e seis @UUID[Compendium.dnd-heroes-faerun.actors.Actor.hofAxeBeak000000]{Bicos-de-Machado} ou @UUID[Compendium.dnd-heroes-faerun.actors.Actor.hofSledDog000000]{cães de trenó}. Veja o <em>Manual dos Monstros</em> para esses blocos de estatísticas.</p>"
+    },
+    "Covered Wagon": {
+      "name": "Carroça Coberta",
+      "description": "<blockquote><p>É alguma surpresa que aventureiros afluam à Terra dos Vales? Não são só as florestas majestosas e a cerveja saborosa; aqui, cada um cuida da própria vida. Estas carroças, popularizadas por aventureiros na ativa e aposentados, podem ser encontradas do Passo do Trovão até o Braço do Dragão.</p></blockquote><p>Este veículo é uma @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbMountsAndVehi.JournalEntryPage.NVPIUDJEdFDaErTg]{Carroça} coberta por lona resistente. Uma criatura tem &amp;Reference[threequarterscover]{Cobertura de Três Quartos} enquanto viaja dentro deste veículo.</p>"
+    }
+  }
+}

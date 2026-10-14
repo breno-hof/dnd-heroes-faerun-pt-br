@@ -1,0 +1,9 @@
+{
+  "label": "Efeitos Ativos",
+  "entries": {
+    "Moonlight": {
+      "name": "Luar",
+      "description": "<p>Enquanto estiverem nessa área, você e seus aliados têm Meia Cobertura e Resistência a dano Elétrico, de Frio e Radiante.</p>"
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "label": "Cenas",
+  "folders": {
+    "Forgotten Lands": "Terras Esquecidas",
+    "The North": "O Norte",
+    "Lantan": "Lantan",
+    "Old Empires": "Antigos Impérios",
+    "Faerûn": "Faerûn",
+    "Heartlands": "Terras Centrais",
+    "Regions of the Realm": "Regiões dos Reinos",
+    "Rashemen": "Rashemen",
+    "Lands of Intrigue": "Terras da Intriga",
+    "Moonshae Isles": "Ilhas Moonshae",
+    "Vilhon Reach": "Enseada de Vilhon",
+    "Sword Coast": "Costa da Espada",
+    "Aglarond and Thay": "Aglarond e Thay",
+    "Anauroch": "Anauroch",
+    "Freedale": "Vale Livre",
+    "Nelanther": "Nelanther"
+  },
+  "entries": {
+    "Aglarond and Thay": {
+      "name": "Aglarond e Thay"
+    },
+    "Anauroch": {
+      "name": "Anauroch"
+    },
+    "Anauroch DM": {
+      "name": "Anauroch (Mestre)"
+    },
+    "Aglarond and Thay DM": {
+      "name": "Aglarond e Thay (Mestre)",
+      "regions": {
+        "Rectangle Template": {
+          "name": "Modelo Retangular"
+        }
+      }
+    },
+    "Forgotten Lands DM": {
+      "name": "Terras Esquecidas (Mestre)"
+    },
+    "Freedale DM": {
+      "name": "Vale Livre (Mestre)"
+    },
+    "Heartlands DM": {
+      "name": "Terras Centrais (Mestre)"
+    },
+    "Lands of Intrigue DM": {
+      "name": "Terras da Intriga (Mestre)"
+    },
+    "Lantan DM": {
+      "name": "Lantan (Mestre)"
+    },
+    "Moonshae Isles DM": {
+      "name": "Ilhas Moonshae (Mestre)"
+    },
+    "Nelanther DM": {
+      "name": "Nelanther (Mestre)"
+    },
+    "Old Empires DM": {
+      "name": "Antigos Impérios (Mestre)"
+    },
+    "Rashemen DM": {
+      "name": "Rashemen (Mestre)"
+    },
+    "Regions of the Realm DM": {
+      "name": "Regiões dos Reinos (Mestre)"
+    },
+    "Sword Coast DM": {
+      "name": "Costa da Espada (Mestre)"
+    },
+    "The North DM": {
+      "name": "O Norte (Mestre)"
+    },
+    "Vilhon Reach DM": {
+      "name": "Enseada de Vilhon (Mestre)"
+    },
+    "Faerûn DM": {
+      "name": "Faerûn (Mestre)"
+    },
+    "Faerûn": {
+      "name": "Faerûn",
+      "deltaTokens": {
+        "Borazon": {
+          "name": "Borazon"
+        }
+      }
+    },
+    "Forgotten Lands": {
+      "name": "Terras Esquecidas"
+    },
+    "Freedale": {
+      "name": "Vale Livre"
+    },
+    "Heartlands": {
+      "name": "Terras Centrais"
+    },
+    "Lands of Intrigue": {
+      "name": "Terras da Intriga"
+    },
+    "Lantan": {
+      "name": "Lantan"
+    },
+    "Moonshae Isles": {
+      "name": "Ilhas Moonshae"
+    },
+    "Nelanther": {
+      "name": "Nelanther"
+    },
+    "Old Empires": {
+      "name": "Antigos Impérios"
+    },
+    "Rashemen": {
+      "name": "Rashemen"
+    },
+    "Regions of the Realm": {
+      "name": "Regiões dos Reinos"
+    },
+    "Sword Coast": {
+      "name": "Costa da Espada"
+    },
+    "The North": {
+      "name": "O Norte"
+    },
+    "Vilhon Reach": {
+      "name": "Enseada de Vilhon"
+    }
+  }
+}

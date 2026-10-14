@@ -1,0 +1,10 @@
+{
+  "name": "dnd-heroes-faerun-pt-br",
+  "private": true,
+  "type": "module",
+  "description": "Módulo de tradução PT-BR (via Babele) para os compêndios de dnd-heroes-faerun.",
+  "scripts": {
+    "generate": "node scripts/generate-translation.mjs",
+    "bump": "node scripts/bump-version.mjs"
+  }
+}

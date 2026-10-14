@@ -1,0 +1,437 @@
+{
+  "label": "Tabelas de Rolagem",
+  "folders": {
+    "Factions": "Facções",
+    "The Realms": "Os Reinos",
+    "Feats": "Talentos"
+  },
+  "entries": {
+    "Amethyst Dragon Quests": {
+      "name": "Missões do Dragão de Ametista",
+      "description": "<p>Se seu personagem aspira a ingressar nos Cavaleiros do Dragão Púrpura e recebeu uma missão de um dragão de ametista, você pode rolar na tabela Missões do Dragão de Ametista para determinar a missão.</p>",
+      "results": {
+        "1-1": {
+          "description": "“Destrua uma célula do Culto do Dragão e traga-me a cabeça do líder do culto.”"
+        },
+        "2-2": {
+          "description": "“Encontre uma lança à altura da minha majestade.”"
+        },
+        "3-3": {
+          "description": "“Viaje para outro mundo. Só retorne a mim quando tiver algo digno de ser mostrado.”"
+        },
+        "4-4": {
+          "description": "“Uma perturbação psíquica me aflige. Localize o monstro que a está causando e mate-o.”"
+        },
+        "5-5": {
+          "description": "“Anseio ver um ninho no topo de uma montanha de beleza inigualável. Leve esta ametista a tal lugar.”"
+        },
+        "6-6": {
+          "description": "“Sinto a presença de um flumph perdido em algum lugar deste mundo. Ajude este flumph a encontrar seu claustro.”"
+        }
+      }
+    },
+    "Cheese Bag Contents": {
+      "name": "Conteúdo do Saco de Queijo",
+      "description": "<p>Quando um personagem compra um saco de queijo, role na tabela Conteúdo do Saco de Queijo para determinar o tipo de queijo que há nele.</p>",
+      "results": {
+        "1-1": {
+          "description": "Cheddar arabelano"
+        },
+        "2-2": {
+          "description": "Queijo de lótus chessentano"
+        },
+        "3-3": {
+          "description": "Vermelho damarita"
+        },
+        "4-4": {
+          "description": "Cinzento elturiano"
+        },
+        "5-5": {
+          "description": "Queijo do fazendeiro"
+        },
+        "6-6": {
+          "description": "Verde calishita"
+        },
+        "7-7": {
+          "description": "Queijo da névoa"
+        },
+        "8-8": {
+          "description": "Queijo de nozes"
+        },
+        "9-9": {
+          "description": "Queijo de pimenta"
+        },
+        "10-10": {
+          "description": "Tijolo de Turmish"
+        },
+        "11-11": {
+          "description": "Branco de Vilhon"
+        },
+        "12-12": {
+          "description": "Waterdhaviano"
+        }
+      }
+    },
+    "Cult of the Dragon Trinkets": {
+      "name": "Bugigangas do Culto do Dragão",
+      "description": "<p>Role na tabela Bugigangas do Culto do Dragão para determinar que bugiganga você guarda do seu tempo no Culto do Dragão.</p>",
+      "results": {
+        "1-1": {
+          "description": "Um pingente de garra de dragão em um cordão de couro"
+        },
+        "2-2": {
+          "description": "Cinzas de um dracolich em uma pequena lata de latão"
+        },
+        "3-3": {
+          "description": "Um mapa do covil de um dragão desconhecido"
+        },
+        "4-4": {
+          "description": "Uma pérola negra gravada com uma runa dracônica"
+        },
+        "5-5": {
+          "description": "Uma gota de sangue de dragão preservada em âmbar"
+        },
+        "6-6": {
+          "description": "Um retalho de seda púrpura"
+        }
+      }
+    },
+    "Dragonscarred Blessings": {
+      "name": "Bênçãos dos Marcados pelo Dragão",
+      "description": "<p>Se seu personagem passou por um ritual sacrificial e ainda assim sobreviveu, você pode rolar na tabela Bênçãos dos Marcados pelo Dragão para determinar aleatoriamente a característica física que seu personagem carrega da provação.</p>",
+      "results": {
+        "1-1": {
+          "description": "Você tem uma cicatriz facial em forma de dragão."
+        },
+        "2-2": {
+          "description": "Você tem chifres de dragão vestigiais, asas vestigiais ou uma cauda vestigial."
+        },
+        "3-3": {
+          "description": "Seus olhos têm pupilas em fenda e íris de cores vívidas."
+        },
+        "4-4": {
+          "description": "Partes da sua pele são cobertas por manchas de escamas reptilianas."
+        },
+        "5-5": {
+          "description": "Seu sangue é gelado."
+        },
+        "6-6": {
+          "description": "Uma chama crepita dentro do seu peito, e você exala fragmentos de cinza a cada respiração."
+        },
+        "7-7": {
+          "description": "Você deseja e consegue digerir alimentos que sua espécie normalmente consideraria não comestíveis, como ovos inteiros, aves cruas, terra ou ossos."
+        },
+        "8-8": {
+          "description": "Seu cabelo fica arrepiado e crepita com eletricidade estática."
+        }
+      }
+    },
+    "Emerald Enclave Trinkets": {
+      "name": "Bugigangas do Enclave Esmeralda",
+      "results": {
+        "1-1": {
+          "description": "Um par de brincos feitos de folhas de carvalho que nunca murcham"
+        },
+        "2-2": {
+          "description": "Uma maquete em miniatura de um chalé feito de gravetos"
+        },
+        "3-3": {
+          "description": "Um vaga-lume de brilho verde em uma garrafa"
+        },
+        "4-4": {
+          "description": "Uma cabaça que soa como folhas farfalhando quando encostada ao ouvido"
+        },
+        "5-5": {
+          "description": "Uma pata de coelho preservada em uma tira de couro"
+        },
+        "6-6": {
+          "description": "Uma galhada com o formato de uma runa élfica"
+        }
+      }
+    },
+    "Harper Personas": {
+      "name": "Personas dos Harpistas",
+      "description": "<p>Um personagem com um Kit de Disfarce pode assumir uma persona dos Harpistas sendo bem-sucedido em um [[/check cha 10 format=long]] para aplicar a maquiagem. Quando você aprende uma persona dessa forma, pode rolar na tabela Personas dos Harpistas para determinar aleatoriamente qual persona aprende.</p>",
+      "results": {
+        "1-1": {
+          "description": "Rusty Riba, um ferreiro arruaceiro com sotaque caipira, unhas imundas e pavio curto"
+        },
+        "2-2": {
+          "description": "Padre Temino, um sacerdote melancólico de Amaunator, Helm, Chauntea ou outra divindade conhecida, que oferece conselhos sombrios em tom monótono"
+        },
+        "3-3": {
+          "description": "Pippi Toobs, um artista de rua talentoso, porém afoito, cujas apresentações incluem assobios, prestidigitação e malabarismo com os pés"
+        },
+        "4-4": {
+          "description": "Aargus, um patriarca sem humor que vive reclamando de seus sete filhos imprestáveis que fugiram para se tornar aventureiros"
+        },
+        "5-5": {
+          "description": "Tia Cecília, uma sábia silenciosa, amiga dos animais e piscadora inveterada, que nunca está sem um saco de alpiste"
+        },
+        "6-6": {
+          "description": "Johann Overbridge, um guarda novato desmiolado com armadura mal ajustada que nunca está com os documentos em ordem"
+        },
+        "7-7": {
+          "description": "Vincent, um jovem caçador de emoções e conquistador descarado, com um olho roxo recente e um sorriso convencido"
+        },
+        "8-8": {
+          "description": "Liza Lily, uma vendedora de flores de expressão preocupada e tosse crônica, que parece ainda mais lastimável do que seus ramalhetes murchos"
+        }
+      }
+    },
+    "Harper Trinkets": {
+      "name": "Bugigangas dos Harpistas",
+      "description": "<p>Role na tabela Bugigangas dos Harpistas para determinar que bugiganga você guarda do seu tempo com os Harpistas.</p>",
+      "results": {
+        "1-1": {
+          "description": "Uma gaita quebrada"
+        },
+        "2-2": {
+          "description": "Um estojo de pó compacto com um compartimento secreto"
+        },
+        "3-3": {
+          "description": "Uma pena de pavão de 2 pés de comprimento"
+        },
+        "4-4": {
+          "description": "Uma moeda trapaceira que tem cara dos dois lados"
+        },
+        "5-5": {
+          "description": "Um par de óculos de lentes avermelhadas"
+        },
+        "6-6": {
+          "description": "Um pergaminho de partitura para um instrumento desconhecido"
+        }
+      }
+    },
+    "Lords' Alliance Trinkets": {
+      "name": "Bugigangas da Aliança dos Lordes",
+      "description": "<p>Role na tabela Bugigangas da Aliança dos Lordes para determinar que bugiganga você guarda do seu tempo com a Aliança dos Lordes.</p>",
+      "results": {
+        "1-1": {
+          "description": "Um retalho do estandarte de um exército derrotado"
+        },
+        "2-2": {
+          "description": "Um freio e uma rédea gravados com o nome de um corcel famoso"
+        },
+        "3-3": {
+          "description": "A lâmina quebrada de uma espada usada em uma batalha famosa"
+        },
+        "4-4": {
+          "description": "A luva esquerda de um lorde que desapareceu misteriosamente"
+        },
+        "5-5": {
+          "description": "Um cavalo e um cavaleiro de brinquedo articulados"
+        },
+        "6-6": {
+          "description": "Uma ombreira adornada com a insígnia de um lorde não identificado"
+        }
+      }
+    },
+    "Mythal-Touched Magic": {
+      "name": "Magia Tocada pelo Mythal",
+      "description": "<p>Se uma jogada de ataque de magia acertar você ou se você falhar em um teste de resistência contra uma magia, você pode realizar uma Reação para rolar na tabela Magia Tocada pelo Mythal e criar um efeito mágico. Se um efeito exigir um teste de resistência, a CD é igual a 8 mais o modificador do atributo aumentado por este talento e seu Bônus de Proficiência.</p>",
+      "results": {
+        "1-2": {
+          "description": "<p>Você e cada criatura a até 15 pés de você fazem um teste de resistência de [[/save Dexterity]], sofrendo dano Energético igual a [[/damage 1d8 type=force]]{1d8} vezes o nível da magia desencadeadora em caso de falha, ou metade desse dano em caso de sucesso.</p>"
+        },
+        "3-7": {
+          "description": "Você e o conjurador da magia desencadeadora formam um elo telepático por 1 hora."
+        },
+        "8-10": {
+          "description": "<p>A gravidade é invertida em um Cilindro com 15 pés de raio e 60 pés de altura centrado em você por 1 minuto, conforme a magia @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplReverseGra]{Inverter a Gravidade}.</p>"
+        },
+        "11-13": {
+          "description": "<p>Você e o conjurador da magia desencadeadora fazem cada um um teste de resistência de [[/save Constitution]]. Em caso de falha, a criatura tem a condição &amp;Reference[Stunned] até o fim do próximo turno dela.</p>"
+        },
+        "14-17": {
+          "description": "<p>Você recebe +2 de bônus na CA por 1 minuto, o que pode transformar a magia desencadeadora em um erro, se ela for um ataque de magia.</p>"
+        },
+        "18-19": {
+          "description": "<p>Qualquer objeto inflamável e não mágico a até 10 pés do conjurador da magia desencadeadora que não esteja sendo vestido ou carregado por outra criatura pega fogo, sofre [[/damage 1d4 type=fire]] de dano e fica em chamas.</p>"
+        },
+        "20-20": {
+          "description": "<p>A magia desencadeadora se dissipa sem efeito, e a ação, Ação Bônus ou Reação usada para conjurá-la é desperdiçada. Se essa magia foi conjurada com um espaço de magia, o espaço não é gasto.</p>"
+        }
+      }
+    },
+    "Order of the Gauntlet Trinkets": {
+      "name": "Bugigangas da Ordem da Manopla",
+      "description": "<p>Role na tabela Bugigangas da Ordem da Manopla para determinar que bugiganga você guarda do seu tempo com a Ordem da Manopla.</p>",
+      "results": {
+        "1-1": {
+          "description": "Uma pena branca pesada como chumbo"
+        },
+        "2-2": {
+          "description": "Um frasco vazio feito de vitral"
+        },
+        "3-3": {
+          "description": "Um único cone de incenso salpicado de ouro"
+        },
+        "4-4": {
+          "description": "Uma venda de seda"
+        },
+        "5-5": {
+          "description": "Metade de um par de algemas"
+        },
+        "6-6": {
+          "description": "Um aspersório manchado"
+        }
+      }
+    },
+    "Purple Dragon Knight Trinkets": {
+      "name": "Bugigangas dos Cavaleiros do Dragão Púrpura",
+      "description": "<p>Role na tabela Bugigangas dos Cavaleiros do Dragão Púrpura para determinar que bugiganga você guarda do seu tempo com os Cavaleiros do Dragão Púrpura.</p>",
+      "results": {
+        "1-1": {
+          "description": "A garra de um filhote de dragão de ametista"
+        },
+        "2-2": {
+          "description": "Um quartzo roxo comum lapidado para parecer o olho de um dragão"
+        },
+        "3-3": {
+          "description": "Um apito de sinalização audível apenas por dragões de ametista"
+        },
+        "4-4": {
+          "description": "Um ovo de tordo envolto em âmbar"
+        },
+        "5-5": {
+          "description": "Uma pedra de amolar que deixa qualquer lâmina afiada nela levemente cintilante"
+        },
+        "6-6": {
+          "description": "Um guarda-mão de lança tomado de um justador rival abatido"
+        }
+      }
+    },
+    "Red Wizard Trinkets": {
+      "name": "Bugigangas dos Magos Vermelhos",
+      "description": "<p>Role na tabela Bugigangas dos Magos Vermelhos para determinar que bugiganga você guarda do seu tempo com os Magos Vermelhos.</p>",
+      "results": {
+        "1-1": {
+          "description": "Uma varinha retorcida feita de teixo petrificado"
+        },
+        "2-2": {
+          "description": "Um pote de vidro contendo o coração preservado de um animal desconhecido"
+        },
+        "3-3": {
+          "description": "Uma estatueta de unicórnio esculpida em obsidiana"
+        },
+        "4-4": {
+          "description": "Uma agulha de tatuagem feita de um de seus próprios ossos"
+        },
+        "5-5": {
+          "description": "Um amuleto de bronze em forma de escorpião"
+        },
+        "6-6": {
+          "description": "Uma navalha feita de aço carmesim"
+        }
+      }
+    },
+    "Standard Languages of Faerûn": {
+      "name": "Idiomas Padrão de Faerûn",
+      "results": {
+        "1-3": {
+          "description": "<p><strong>Idioma</strong>: Aglarondano</p><p><strong>Origem</strong>: Aglarond</p>"
+        },
+        "4-6": {
+          "description": "<p><strong>Idioma</strong>: Alzhedo</p><p><strong>Origem</strong>: Calimshan</p>"
+        },
+        "7-9": {
+          "description": "<p><strong>Idioma</strong>: Bothii</p><p><strong>Origem</strong>: Nômades uthgardt</p>"
+        },
+        "10-12": {
+          "description": "<p><strong>Idioma</strong>: Chessentano</p><p><strong>Origem</strong>: Chessenta</p>"
+        },
+        "13-15": {
+          "description": "<p><strong>Idioma</strong>: Chondathano</p><p><strong>Origem</strong>: Chondath</p>"
+        },
+        "16-18": {
+          "description": "<p><strong>Idioma</strong>: Língua de Sinais Comum</p><p><strong>Origem</strong>: Sigil</p>"
+        },
+        "19-21": {
+          "description": "<p><strong>Idioma</strong>: Damarano</p><p><strong>Origem</strong>: Damara</p>"
+        },
+        "22-26": {
+          "description": "<p><strong>Idioma</strong>: Dracônico</p><p><strong>Origem</strong>: Dragões</p>"
+        },
+        "27-33": {
+          "description": "<p><strong>Idioma</strong>: Anão</p><p><strong>Origem</strong>: Anões</p>"
+        },
+        "34-40": {
+          "description": "<p><strong>Idioma</strong>: Élfico</p><p><strong>Origem</strong>: Elfos</p>"
+        },
+        "41-45": {
+          "description": "<p><strong>Idioma</strong>: Gigante</p><p><strong>Origem</strong>: Gigantes</p>"
+        },
+        "46-50": {
+          "description": "<p><strong>Idioma</strong>: Gnômico</p><p><strong>Origem</strong>: Gnomos</p>"
+        },
+        "51-55": {
+          "description": "<p><strong>Idioma</strong>: Goblin</p><p><strong>Origem</strong>: Goblinoides</p>"
+        },
+        "56-62": {
+          "description": "<p><strong>Idioma</strong>: Pequenino</p><p><strong>Origem</strong>: Pequeninos</p>"
+        },
+        "63-65": {
+          "description": "<p><strong>Idioma</strong>: Illuskano</p><p><strong>Origem</strong>: O Norte</p>"
+        },
+        "66-68": {
+          "description": "<p><strong>Idioma</strong>: Lantanês</p><p><strong>Origem</strong>: Lantan</p>"
+        },
+        "69-71": {
+          "description": "<p><strong>Idioma</strong>: Midani</p><p><strong>Origem</strong>: Nômades bedine</p>"
+        },
+        "72-74": {
+          "description": "<p><strong>Idioma</strong>: Mulhorandi</p><p><strong>Origem</strong>: Mulhorand</p>"
+        },
+        "75-77": {
+          "description": "<p><strong>Idioma</strong>: Netherese</p><p><strong>Origem</strong>: Netheril</p>"
+        },
+        "78-82": {
+          "description": "<p><strong>Idioma</strong>: Orc</p><p><strong>Origem</strong>: Orcs</p>"
+        },
+        "83-85": {
+          "description": "<p><strong>Idioma</strong>: Rashemi</p><p><strong>Origem</strong>: Rashemen</p>"
+        },
+        "86-88": {
+          "description": "<p><strong>Idioma</strong>: Reghedjico</p><p><strong>Origem</strong>: Nômades reghed</p>"
+        },
+        "89-91": {
+          "description": "<p><strong>Idioma</strong>: Sespech</p><p><strong>Origem</strong>: Sespech</p>"
+        },
+        "92-94": {
+          "description": "<p><strong>Idioma</strong>: Thayano</p><p><strong>Origem</strong>: Thay</p>"
+        },
+        "95-97": {
+          "description": "<p><strong>Idioma</strong>: Túrmico</p><p><strong>Origem</strong>: Turmish</p>"
+        },
+        "98-100": {
+          "description": "<p><strong>Idioma</strong>: Untherico</p><p><strong>Origem</strong>: Unther</p>"
+        }
+      }
+    },
+    "Zhentarim Trinkets": {
+      "name": "Bugigangas do Zhentarim",
+      "description": "<p>Role na tabela Bugigangas do Zhentarim para determinar que bugiganga você guarda do seu tempo com o Zhentarim.</p>",
+      "results": {
+        "1-1": {
+          "description": "Uma adaga quebrada gravada com seu nome"
+        },
+        "2-2": {
+          "description": "Um olho de vidro que sempre se vira para você"
+        },
+        "3-3": {
+          "description": "Um dente de serpente cor de ouro"
+        },
+        "4-4": {
+          "description": "Uma moeda de ouro falsificada"
+        },
+        "5-5": {
+          "description": "Uma agulha de tatuagem de cristal"
+        },
+        "6-6": {
+          "description": "Um contrato em uma tira de pergaminho imune a vincos, rasgos e fogo"
+        }
+      }
+    }
+  }
+}
